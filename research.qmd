@@ -1,7 +1,31 @@
 ---
-title: "承担项目"
+title: "研究内容"
 ---
 
+![Our research content](images/research_content.png)
+
+## 论文、学术交流与报告
+贺兴
+
+* 论文：
+    1. Xing He, Qian Ai, Yuezhong Tang, Robert Qiu, Canbing Li. Exploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN. IEEE Transactions on Power Systems, 2023. Accepted. (新录用)
+    2. Xing He, Lei Chu, Wang Jinbo, et al. Situation Awareness of Energy Internet of Thing in Smart City Based on Digital Twin: From Digitization to Informatization. IEEE Internet of Things Journal, 2023, 10(9): 7439-7458. (刊出)
+    3. HAN Y, He X, ZHANG H, et al. Metaverse Framework Designing for Energy Scheduling in Energy Internet of Things Considering Emergence. Digital Twin, 2023, 3: 6.
+    4. 贺兴，唐跃中，韩烨宸等. 基于数字孪生与元宇宙的能源互联网认知系统论(三)：复杂系统群智调控理论及其框架[J]. 中国电机工程学报, 2023, 录用.
+    5. 贺兴，潘美琪，唐跃中，等. 基于数字孪生与元宇宙的能源互联网认知系统论(二)：复杂系统涌现现象的虚拟仿真推演框架及其案例分析[J]. 中国电机工程学报, 2023, 网络首发.
+    6. 贺兴，陈旻昱，唐跃中，等. 基于数字孪生与元宇宙技术的能源互联网态势感知系统论方法研究(一)：概念、挑战与研究框架[J]. 中国电机工程学报, 2022, 网络首发.
+    7. 周翔, 贺兴, 陈赟, 等. 超大型城市虚拟电厂的数字孪生框架设计及实践 [J/OL]. 电网技术, 2024, 网络首发.
+    8. 贺兴, 潘美琪, 艾芊. 小样本学习技术在新型电力系统的应用与挑战[J/OL]. 电力系统自动化, 2024, 48(06): 74-82.
+    9. 潘美琪, 贺兴, 艾芊, 等. 新型配电系统分布式资源调度研究现状与展望[J/OL]. 电网技术, 2023, 网络首发.
+    10. 潘美琪, 贺兴. 基于TimeGAN-Stacking的风电机组变桨系统故障诊断方法, 太阳能学报. (已录用)
+    11. 潘美琪, 贺兴. 基于零样本学习的风机故障诊断方法, 上海交通大学学报. (已录用)
+    12. 韩烨宸, 贺兴, 艾芊. 基于GRU-EEMD算法的非侵入式配电网功率欠定盲源分离[J]. 电力系统自动化, 2023, 47(14): 64-71.
+    13. 贺兴, 艾芊, 朱天怡, 邱才明, 张东霞. 数字孪生在电力系统应用中的机遇和挑战[J/OL]. 电网技术, 2020, 44(6): 2009-2019. (引用162, F5000论文)
+* 学术交流与报告：
+    1. 贺兴，复杂系统认知论的探讨，2023年中国工程院国际工程科技战略高端论坛暨第八届“紫金论电”国际学术研讨会. 闭门圆桌会议，2023.08.13，南京.
+    2. 贺兴. 基于数字孪生与沙盘推演的城市新型电力系统元宇宙建设——以分布式能源资调度为例. 2023能源创新青年论坛，中国电机工程学会青年和教育工作委员会、中国电力科学研究院、清华大学电机系. 特邀报告，2023.11.11，成都.
+
+## 主持或参与的项目
 | 序号 | 项目名称 | 编号 | 主持人 |
 |-|-------|--|--|
 | 1 | 分布式能源虚拟孪生体的聚合行为及其涌现现象研究 | 52277111 | 贺兴 | 

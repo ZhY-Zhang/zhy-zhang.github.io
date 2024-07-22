@@ -5,7 +5,7 @@ title: "教师介绍"
 
 :::{layout="[20, 80]" .profile-header}
 
-![Ai Qian](../images/ai_qian.jpg)
+![Ai Qian](images/ai_qian.jpg)
 
 * **职位**：上海交通大学电气工程系长聘教授、博士生导师，电力系统及自动化研究所所长，教研室主任，IEEE Senior Member
 * **研究方向**：电力系统元件建模, 电能质量, 分布式发电, 人工智能以及在电力系统中的应用等.
@@ -26,7 +26,7 @@ title: "教师介绍"
 ## 贺兴
 :::{layout="[20, 80]" .profile-header}
 
-![He Xing](../images/he_xing.jpg)
+![He Xing](images/he_xing.jpg)
 
 * **职位**：电气工程系 & 大数据工程技术研究中心 副研究员
 * **教育背景** 博士导师：艾芊 教授；博后合作导师：邱才明 教授
@@ -42,7 +42,7 @@ title: "教师介绍"
 ## 高扬
 :::{layout="[20, 80]" .profile-header}
 
-![Gao Yang](../images/gao_yang.jpg)
+![Gao Yang](images/gao_yang.jpg)
 
 * **职位**：上海交通大学电气工程系 助理研究员
 * [学校官网主页](https://eei.sjtu.edu.cn/faculty-detail.php?id=85)
@@ -52,7 +52,7 @@ title: "教师介绍"
 ## 李嘉媚
 :::{layout="[20, 80]" .profile-header}
 
-![Li Jiamei](../images/li_jiamei.jpg)
+![Li Jiamei](images/li_jiamei.jpg)
 
 * **职位**：上海交通大学电气工程系 助理研究员
 * **研究方向**：虚拟电厂优化决策与运营模式

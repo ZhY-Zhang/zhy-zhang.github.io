@@ -1,0 +1,80 @@
+---
+title: "代码仓库规则"
+author: "ZZY"
+date: "2024-07-22"
+categories: [rule, code]
+---
+
+本文为提交代码仓库及编写 `README` 文件的规则。 
+
+# Rules of Code Repo / 代码仓库规则
+
+> You must be familiar with markdown grammar. This file is used to introduce your code. The file is **NECESSARY** in every code repository.
+
+> 请熟悉 markdown 语法。本文件用于介绍您的代码。所有代码仓库**必须**包含本文件。
+
+## Introduction / 简介
+
+> Introduce your code briefly. You may skip this section if introduction is unnecessary.
+
+> 请简要介绍您的代码。若无必要，您可跳过这一节。
+
+This is the template of `README.md` in the sample code repository. The tips are at the beginning of each section, which only serve as a guidance and should not be included in your repository.
+
+## Installation / 安装
+
+> This section is **NECESSARY**. You must list the runtime environment and dependencies of the project.
+>
+> * For a `Python` project, the dependencies must be listed in `requirements.txt`.
+> * For a `Julia` project, the `Manifest.toml` are `Project.toml` are required.
+> * For a `Matlab` project, the name, version and installation of program packages (such as Matpower, CPLEX, etc.) must be listed.
+
+> 本节是**必须的**。请列举项目所需的环境与依赖。
+>
+> * 对于 `Python` 项目，必须将依赖列举在 `requirements.txt` 中；
+> * 对于 `Julia` 项目，必须有 `Manifest.toml` 和 `Project.toml` 文件；
+> * 对于 `Matlab` 项目，必须列出所使用的软件包（如 Matpower、CPLEX 等）的名称、版本及安装方式。
+
+Requires Python 3.9+. To install the dependencies, you can use pip.
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage / 使用
+
+> This section is **NECESSARY**. You should show the basic usage of your code so that others can follow or take over your work.
+
+> 本节是**必须的**。请说清您的代码是如何运行的，这样别人可以复现或接手您的工作。
+
+Run `main.py` to test your installation.
+
+```bash
+python main.py
+```
+
+## Dataset / 数据集
+
+> This section is **NECESSARY**. You should list the source, description and usage of **EVERY** data file.
+>
+> * **Source**: Where is the file from?
+> * **Description**: What is the main content of the file?
+> * **Usage**: How can we read / analyze the file?
+
+> 本节是**必须的**。请列举**每个**数据文件的来源、描述与用途。
+>
+> * **来源**：数据从哪来？
+> * **描述**：数据的主要内容是什么？
+> * **用途**：如何读取 / 分析该数据？
+
+All data files are listed as follows.
+
+| File Name     | Source         | Description                               | Usage    |
+| ------------- | -------------- | ----------------------------------------- | -------- |
+| fibonacci.txt | Created by ZZY | First 9 numbers of the Fibonacci sequence | Not used |
+
+## Additional Sections? / 更多小节？
+
+> You may add additional section if you like. For example, you may add the flowchart of your algorithm.
+
+> 您可以自由添加其他小节。例如，您可以加入算法的流程图以帮助理解。

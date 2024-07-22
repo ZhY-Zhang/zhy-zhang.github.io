@@ -7,15 +7,15 @@ website:
     left:
       - href: index.qmd
         text: 主页
-      - href: pages/research.qmd
+      - href: research.qmd
         text: 研究内容
-      - href: pages/teacher.qmd
+      - href: teacher.qmd
         text: 教师介绍
-      - href: pages/project.qmd
-        text: 承担项目
-      - href: pages/student.qmd
+      - href: student.qmd
         text: 人才培养
-      - href: pages/contact.qmd
+      - href: rules.qmd
+        text: 办公流程
+      - href: contact.qmd
         text: 联系我们
   back-to-top-navigation: true
   page-footer:
