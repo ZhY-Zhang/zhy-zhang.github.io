@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: 主页
+      - href: pages/research.qmd
+        text: 研究内容
+      - href: pages/teacher.qmd
+        text: 教师介绍
+      - href: pages/project.qmd
+        text: 承担项目
+      - href: pages/student.qmd
+        text: 人才培养
+      - href: pages/contact.qmd
+        text: 联系我们
+  back-to-top-navigation: true
+  page-footer:
+    border: true
+    left:
+      - text: 相关链接：
+      - href: https://eei.sjtu.edu.cn/
+        text: 电气工程系
+      - href: http://www.sgcc.com.cn/
+        text: 国家电网有限公司
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+    lang: zh-cn

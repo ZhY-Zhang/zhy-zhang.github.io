@@ -1,0 +1,14 @@
+---
+title: "联系我们"
+---
+
+* 艾芊 长聘教授 博士生导师（2024 硕士已满）
+    * 电话：021-34204298
+    * 邮箱：aiqian@sjtu.edu.cn
+* 贺兴 副研究员（2024 硕士已满）
+    * 手机：18801966321（微信同号）
+    * 邮箱：hexing_hx@126.com
+
+----------
+
+Powered by [Quarto®](https://quarto.org/). If there is something wrong with the website, please contant me on [my GitHub](https://github.com/ZhY-Zhang).
