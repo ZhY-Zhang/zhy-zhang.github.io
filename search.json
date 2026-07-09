@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "教学资料",
+    "section": "",
+    "text": "电力系统潮流计算与最优潮流基础（v0.1）\n\n\n\n\n 回到顶部"
+  },
+  {
+    "objectID": "research/02_dsr_dispatch.html",
+    "href": "research/02_dsr_dispatch.html",
+    "title": "用户侧资源孪智融合分层调度",
+    "section": "",
+    "text": "用户侧资源已成为新型电力系统灵活调节的重要补充力量。 在不大规模追加高成本调峰资源的条件下，通过电网调度挖掘分布式储能、柔性负荷、电动汽车等用户侧资源的可调潜力，已成为缓解供需缺口、提升系统灵活调节能力的重要途径。"
+  },
+  {
+    "objectID": "research/02_dsr_dispatch.html#用户侧资源孪智融合分层调度",
+    "href": "research/02_dsr_dispatch.html#用户侧资源孪智融合分层调度",
+    "title": "用户侧资源孪智融合分层调度",
+    "section": "",
+    "text": "用户侧资源已成为新型电力系统灵活调节的重要补充力量。 在不大规模追加高成本调峰资源的条件下，通过电网调度挖掘分布式储能、柔性负荷、电动汽车等用户侧资源的可调潜力，已成为缓解供需缺口、提升系统灵活调节能力的重要途径。"
+  },
+  {
+    "objectID": "research/00_intro.html",
+    "href": "research/00_intro.html",
+    "title": "研究方向",
+    "section": "",
+    "text": "这是总的介绍页面"
+  },
+  {
+    "objectID": "research/00_intro.html#研究方向介绍页面",
+    "href": "research/00_intro.html#研究方向介绍页面",
+    "title": "研究方向",
+    "section": "",
+    "text": "这是总的介绍页面"
+  },
+  {
+    "objectID": "paper.html",
+    "href": "paper.html",
+    "title": "学术成果",
+    "section": "",
+    "text": "Redefinition of Digital Twin and Its Situation Awareness Framework Designing Toward Fourth Paradigm for Energy Internet of Things\n\n\nIEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024\n\n提出面向能源物联网的数字孪生态势感知框架，围绕第四范式、数据引擎和智能引擎组织复杂系统认知过程。\n\nComplexity theory Complex systems Engines Digital twins Decision making Data models Energy Internet\n\nIEEE Xplore\n\n\n\nExploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN\n\n\nIEEE Transactions on Power Systems, 2024\n\n面向主动配电网复合事件分析，构建谱空间中的叠加定理，为无监督、模型无关的复合事件解析提供理论工具。\n\nHarmonic analysis Transforms Voltage Mathematical models Topology Power system harmonics Phasor measurement units\n\nIEEE Xplore\n\n\n\n\n\n\n\n\n\n\nEigenvalue Triangle: A Spectrum-Space Representation of Measurement Patterns for Correlation-Aware Network Analysis\n\n\n\nZhuangyan Zhang, Xing He, Zhoujun Ma, Qian Ai, Robert Caiming Qiu\n\n\nIEEE Transactions on Instrumentation and Measurement\n\n\n\n\n\nA World Model framework with digital twin for scheduling demand-side resources under systemic complexity\n\n\n\nXing He, Yikang Bu, Guoquan Yuan, Junjie Yin, Zhuangyan Zhang, Qian Ai, Caiming Qiu\n\n\nEnergy and AI\n\n\n\n\n\n新一代调度体系的挑战与实践——面向需求侧资源群智调度的数字孪生框架\n\n\n\n贺兴, 陈赟, 唐佳滢, 王佳裕, 黄兴德, 罗潇, 潘智俊, 艾芊\n\n\n电网技术\n\n\n\n\n\n\n\n\n\n\nTransparent Enhancement of Active Distribution Network Through FCA-based Blind Decomposition\n\n\n\nXing He, Zhuangyan Zhang, Qian Ai, Zenan Ling, Yuezhong Tang, Robert Qiu\n\n\nApplied Energy\n\n\n\n\n\n面向多主体协同与智能涌现的能源互联网元宇宙架构设计\n\n\n\n马墅研, 贺兴, 张庄俨, 艾芊, 赵建立, 向佳霓\n\n\n电力系统自动化\n\n\n\n\n\n\n\n\n\n\nRedefinition of Digital Twin and Its Situation Awareness Framework Designing Toward Fourth Paradigm for Energy Internet of Things\n\n\n\nXing He, Yuezhong Tang, Shuyan Ma, Qian Ai, Fei Tao, Robert Qiu\n\n\nIEEE Transactions on Systems, Man, and Cybernetics: Systems\n\n\n\n\n\nExploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN\n\n\n\nXing He, Qian Ai, Yuezhong Tang, Robert Caiming Qiu, Canbing Li\n\n\nIEEE Transactions on Power Systems\n\n\n\n\n\n基于数字孪生与元宇宙的能源互联网认知系统论（三）：复杂系统群智调控理论及其框架\n\n\n\n贺兴, 唐跃中, 韩烨宸, 高扬, 陈赟, 黄兴德, 艾芊\n\n\n中国电机工程学报\n\n\n\n\n\n基于数字孪生与元宇宙的能源互联网认知系统论（二）：面向复杂系统涌现现象的虚拟仿真推演框架\n\n\n\n贺兴, 潘美琪, 唐跃中, 郝然, 艾芊\n\n\n中国电机工程学报\n\n\n\n\n\n基于数字孪生与元宇宙技术的能源互联网态势感知系统论方法研究（一）：概念、挑战与研究框架\n\n\n\n贺兴, 陈旻昱, 唐跃中, 艾芊, 张东霞\n\n\n中国电机工程学报\n\n\n\n\n\n小样本学习技术在新型电力系统中的应用与挑战\n\n\n\n贺兴, 潘美琪, 艾芊\n\n\n电力系统自动化\n\n\n\n\n\n新型配电系统分布式资源调度研究现状与展望\n\n\n\n潘美琪, 贺兴, 艾芊, 唐跃中\n\n\n电网技术\n\n\n\n\n\n超大型城市虚拟电厂的数字孪生框架设计及实践\n\n\n\n周翔, 贺兴, 陈赟, 罗潇, 王佳裕, 艾芊, 韩烨宸\n\n\n电网技术\n\n\n\n\n\n\n\n\n\n\nSituation Awareness of Energy Internet of Things in Smart City Based on Digital Twin: From Digitization to Informatization\n\n\n\nXing He, Qian Ai, Jingbo Wang, Fei Tao, Bo Pan, Robert Qiu, Bo Yang\n\n\nIEEE Internet of Things Journal\n\n\n\n\n\n基于GRU-EEMD算法的非侵入式配电网功率欠定盲源分离\n\n\n\n韩烨宸, 贺兴, 艾芊\n\n\n电力系统自动化\n\n\n\n\n\n\n\n\n\n\nA Hybrid Framework for Topology Identification of Distribution Grid With Renewables Integration\n\n\n\nXing He, Robert C. Qiu, Qian Ai, Tianyi Zhu\n\n\nIEEE Transactions on Power Systems\n\n\n\n\n\n\n\n\n\n\nInvisible Units Detection and Estimation Based on Random Matrix Theory\n\n\n\nXing He, Lei Chu, Robert Caiming Qiu, Qian Ai, Zenan Ling, Jian Zhang\n\n\nIEEE Transactions on Power Systems\n\n\n\n\n\n数字孪生在电力系统应用中的机遇和挑战\n\n\n\n贺兴, 艾芊, 朱天怡, 邱才明, 张东霞\n\n\n电网技术\n\n\n\n\n\n\n\n\n\n\nA Big Data Architecture Design for Smart Grids Based on Random Matrix Theory\n\n\n\nXing He, Qian Ai; Robert Caiming Qiu, Wentao Huang, Longjian Piao, Haichun Liu\n\n\nIEEE Transactions on Smart Grid"
+  },
+  {
+    "objectID": "paper.html#代表性论文",
+    "href": "paper.html#代表性论文",
+    "title": "学术成果",
+    "section": "",
+    "text": "Redefinition of Digital Twin and Its Situation Awareness Framework Designing Toward Fourth Paradigm for Energy Internet of Things\n\n\nIEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024\n\n提出面向能源物联网的数字孪生态势感知框架，围绕第四范式、数据引擎和智能引擎组织复杂系统认知过程。\n\nComplexity theory Complex systems Engines Digital twins Decision making Data models Energy Internet\n\nIEEE Xplore\n\n\n\nExploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN\n\n\nIEEE Transactions on Power Systems, 2024\n\n面向主动配电网复合事件分析，构建谱空间中的叠加定理，为无监督、模型无关的复合事件解析提供理论工具。\n\nHarmonic analysis Transforms Voltage Mathematical models Topology Power system harmonics Phasor measurement units\n\nIEEE Xplore"
+  },
+  {
+    "objectID": "paper.html#全部论文",
+    "href": "paper.html#全部论文",
+    "title": "学术成果",
+    "section": "",
+    "text": "Eigenvalue Triangle: A Spectrum-Space Representation of Measurement Patterns for Correlation-Aware Network Analysis\n\n\n\nZhuangyan Zhang, Xing He, Zhoujun Ma, Qian Ai, Robert Caiming Qiu\n\n\nIEEE Transactions on Instrumentation and Measurement\n\n\n\n\n\nA World Model framework with digital twin for scheduling demand-side resources under systemic complexity\n\n\n\nXing He, Yikang Bu, Guoquan Yuan, Junjie Yin, Zhuangyan Zhang, Qian Ai, Caiming Qiu\n\n\nEnergy and AI\n\n\n\n\n\n新一代调度体系的挑战与实践——面向需求侧资源群智调度的数字孪生框架\n\n\n\n贺兴, 陈赟, 唐佳滢, 王佳裕, 黄兴德, 罗潇, 潘智俊, 艾芊\n\n\n电网技术\n\n\n\n\n\n\n\n\n\n\nTransparent Enhancement of Active Distribution Network Through FCA-based Blind Decomposition\n\n\n\nXing He, Zhuangyan Zhang, Qian Ai, Zenan Ling, Yuezhong Tang, Robert Qiu\n\n\nApplied Energy\n\n\n\n\n\n面向多主体协同与智能涌现的能源互联网元宇宙架构设计\n\n\n\n马墅研, 贺兴, 张庄俨, 艾芊, 赵建立, 向佳霓\n\n\n电力系统自动化\n\n\n\n\n\n\n\n\n\n\nRedefinition of Digital Twin and Its Situation Awareness Framework Designing Toward Fourth Paradigm for Energy Internet of Things\n\n\n\nXing He, Yuezhong Tang, Shuyan Ma, Qian Ai, Fei Tao, Robert Qiu\n\n\nIEEE Transactions on Systems, Man, and Cybernetics: Systems\n\n\n\n\n\nExploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN\n\n\n\nXing He, Qian Ai, Yuezhong Tang, Robert Caiming Qiu, Canbing Li\n\n\nIEEE Transactions on Power Systems\n\n\n\n\n\n基于数字孪生与元宇宙的能源互联网认知系统论（三）：复杂系统群智调控理论及其框架\n\n\n\n贺兴, 唐跃中, 韩烨宸, 高扬, 陈赟, 黄兴德, 艾芊\n\n\n中国电机工程学报\n\n\n\n\n\n基于数字孪生与元宇宙的能源互联网认知系统论（二）：面向复杂系统涌现现象的虚拟仿真推演框架\n\n\n\n贺兴, 潘美琪, 唐跃中, 郝然, 艾芊\n\n\n中国电机工程学报\n\n\n\n\n\n基于数字孪生与元宇宙技术的能源互联网态势感知系统论方法研究（一）：概念、挑战与研究框架\n\n\n\n贺兴, 陈旻昱, 唐跃中, 艾芊, 张东霞\n\n\n中国电机工程学报\n\n\n\n\n\n小样本学习技术在新型电力系统中的应用与挑战\n\n\n\n贺兴, 潘美琪, 艾芊\n\n\n电力系统自动化\n\n\n\n\n\n新型配电系统分布式资源调度研究现状与展望\n\n\n\n潘美琪, 贺兴, 艾芊, 唐跃中\n\n\n电网技术\n\n\n\n\n\n超大型城市虚拟电厂的数字孪生框架设计及实践\n\n\n\n周翔, 贺兴, 陈赟, 罗潇, 王佳裕, 艾芊, 韩烨宸\n\n\n电网技术\n\n\n\n\n\n\n\n\n\n\nSituation Awareness of Energy Internet of Things in Smart City Based on Digital Twin: From Digitization to Informatization\n\n\n\nXing He, Qian Ai, Jingbo Wang, Fei Tao, Bo Pan, Robert Qiu, Bo Yang\n\n\nIEEE Internet of Things Journal\n\n\n\n\n\n基于GRU-EEMD算法的非侵入式配电网功率欠定盲源分离\n\n\n\n韩烨宸, 贺兴, 艾芊\n\n\n电力系统自动化\n\n\n\n\n\n\n\n\n\n\nA Hybrid Framework for Topology Identification of Distribution Grid With Renewables Integration\n\n\n\nXing He, Robert C. Qiu, Qian Ai, Tianyi Zhu\n\n\nIEEE Transactions on Power Systems\n\n\n\n\n\n\n\n\n\n\nInvisible Units Detection and Estimation Based on Random Matrix Theory\n\n\n\nXing He, Lei Chu, Robert Caiming Qiu, Qian Ai, Zenan Ling, Jian Zhang\n\n\nIEEE Transactions on Power Systems\n\n\n\n\n\n数字孪生在电力系统应用中的机遇和挑战\n\n\n\n贺兴, 艾芊, 朱天怡, 邱才明, 张东霞\n\n\n电网技术\n\n\n\n\n\n\n\n\n\n\nA Big Data Architecture Design for Smart Grids Based on Random Matrix Theory\n\n\n\nXing He, Qian Ai; Robert Caiming Qiu, Wentao Huang, Longjian Piao, Haichun Liu\n\n\nIEEE Transactions on Smart Grid"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于本站",
+    "section": "",
+    "text": "本站为复杂电力系统认知实验室建设的电气技术科普与开放教学网站，面向电气工程、新型电力系统和能源数字化方向，发布基础知识、教学资料、开放实验平台和学术成果介绍。\n本站内容主要用于科普传播、课程辅助和学术交流，不涉及在线交易、经营性收费、广告投放或商业推广。开放实验平台主要用于技术展示、教学演示和科研验证，相关内容会根据研究进展持续更新。"
+  },
+  {
+    "objectID": "about.html#联系我们",
+    "href": "about.html#联系我们",
+    "title": "关于本站",
+    "section": "联系我们",
+    "text": "联系我们\n艾芊，长聘教授，博士生导师 | 办公电话：021-34204298 | 邮箱：aiqian@sjtu.edu.cn\n贺兴，副研究员 | 手机：18801966321（微信同号） | 邮箱：hexing_hx@126.com\n网站问题反馈：zhangzhuangyan@sjtu.edu.cn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "复杂电力系统认知实验室",
+    "section": "",
+    "text": "查看更多"
+  },
+  {
+    "objectID": "index.html#教学资料",
+    "href": "index.html#教学资料",
+    "title": "复杂电力系统认知实验室",
+    "section": "教学资料",
+    "text": "教学资料"
+  },
+  {
+    "objectID": "index.html#开放实验平台",
+    "href": "index.html#开放实验平台",
+    "title": "复杂电力系统认知实验室",
+    "section": "开放实验平台",
+    "text": "开放实验平台"
+  },
+  {
+    "objectID": "platform.html",
+    "href": "platform.html",
+    "title": "开放平台",
+    "section": "",
+    "text": "区域综合能源系统多能主体互动调控仿真推演孪生平台\n区域综合能源系统多能主体互动调控仿真推演孪生平台（API文档）\n园区充电服务费动态定价实验\n园区充电服务费动态定价实验（API文档）\n\n\n\n\n 回到顶部"
+  },
+  {
+    "objectID": "research/01_rei_dispatch.html",
+    "href": "research/01_rei_dispatch.html",
+    "title": "区域能源互联网群智调度",
+    "section": "",
+    "text": "区域能源互联网（REI1）作为新型能源体系的重要组成部分，推动了需求侧资源（DSR2）的广泛接入，催生了虚拟电厂（VPP3）、负荷聚合商等新型业态，形成了多元、灵活、自治、协同的复杂能源生态圈。 然而，DSR 的大规模接入与无序运行可能引发功率波动、电压越限、潮流反向、设备过载等问题。传统大电网调度模式已经难以适配 REI 的运行特性，亟需构建适配 REI 的新一代调度体系。\n\n\n\n区域能源互联网群智调度机制 | Regional Energy Internet Collaborative Intelligence Dispatch Mechanmism\n\n\n如图所示，REI 调度的复杂性源于分层互动架构（调度系统—聚合体—终端用户）下的双向交互过程：\n\n资源聚合过程：\n\nDSR 单元异质性强、数量庞大且配置灵活；\n单元通过电网实现动态聚合、多径耦合与博弈反馈，产生超越传统电力系统机理解析的涌现效应，增加协同管控难度。\n\n调度决策过程：\n\n调度对象由高可控、低风险的发电机组转变为自主性强、响应不确定的 DSR 聚合体，其特性、诉求与运行场景多样；\n单元用能行为遵循用户优先原则，受工况、意愿及市场激励等多重因素驱动，难以用固化规则保障调度效果。\n\n\n综合上述技术难点，课题组以系统论与数据密集型科学发现为指导，融合数字孪生、大数据分析、机器学习与复杂性科学，开展多智能体群智调度研究。针对 REI 分层互动架构的特点，课题组从涌现认知的全局分析视角与孪生智能的数据贯通视角出发，构建 REI 群智调度数字孪生框架。\n\n\n\n群智调度框架与核心模块 | Collaborative Intelligence Dispatch Framework And Its Core Modules\n\n\n如图所示，该框架包括样本子空间、特征子空间与决策子空间三个核心模块：\n\n样本子空间——精准建模与“覆盖式”样本生成\n\n难点：涵盖多实体、多参量、多过程；兼顾安全、经济、低碳；适应多需求、多环境、多耦合。\n方案：结合场景编排与自动仿真技术，在孪生空间中“覆盖式”模拟系统多时间尺度、多层级、多路径的高维时空数据样本，实现物理世界到样本子空间的多演绎路径生成式投射，支撑系统感知。\n\n特征子空间——高维数据利用与涌现解析\n\n难点：电力系统的异源时空大数据维度极高，传统统计方法可能产生严重偏差。\n方案：运用高维统计分析与深度学习技术，提取关键调度特征，量化评估不同策略的调度效果，并为样本数据打上多业态标签，支撑智能决策。\n\n决策子空间——群智机制设计与涌现驾驭\n\n难点：涌现现象难以用还原论描述，需要系统性、整体性的深层认知。\n方案：以海量标签样本集为输入，采用深度强化学习神经网络、人机混合智能增强等技术构建调度决策模型；设计虚实交互与闭环反馈机制，在物理世界与孪生空间中测试与优化群智调度策略。\n\n\n基于上述核心模块，结合“推演-认知-决策-再推演”闭环迭代式演进方法，课题组设计了群智调度数字孪生平台如图所示。\n\n\n\n群智调度平台设计 | Design of Collaborative Intelligence Dispatch Platform\n\n\n平台的运行逻辑如下：\n\n初始状态设置：基于历史数据、实时传感数据与人工输入，初始化系统环境、扰动因素与智能体交互机制；\n系统模拟：基于孪生建模与多径推演技术，生成多时间尺度、多层级、多路径的高维时空数据样本；\n态势感知：基于机器学习与高维统计理论，提取关键的系统运行特征与潜在调度规律，实现对调度策略效果的智能评估与特征挖掘；\n调度决策：基于深度强化学习等技术生成智能调度决策，并在孪生空间中开展虚拟测试，完成“虚拟空间自校核”；\n实际调度执行：在物理世界执行决策，实现物理系统的状态更新，完成“物理在环后校核”；\n孪生框架演进：将物理世界状态同步到孪生空间，进行下一次“再推演”循环。\n\n该平台可通过反复的“推演-认知-决策-再推演”迭代，逐步提升系统的智能化水平与可信度，建立全景化的数字化场景推演与智能管控工具，实现区域能源互联网的动态感知与智能决策闭环。"
+  },
+  {
+    "objectID": "research/01_rei_dispatch.html#区域能源互联网群智调度",
+    "href": "research/01_rei_dispatch.html#区域能源互联网群智调度",
+    "title": "区域能源互联网群智调度",
+    "section": "",
+    "text": "区域能源互联网（REI1）作为新型能源体系的重要组成部分，推动了需求侧资源（DSR2）的广泛接入，催生了虚拟电厂（VPP3）、负荷聚合商等新型业态，形成了多元、灵活、自治、协同的复杂能源生态圈。 然而，DSR 的大规模接入与无序运行可能引发功率波动、电压越限、潮流反向、设备过载等问题。传统大电网调度模式已经难以适配 REI 的运行特性，亟需构建适配 REI 的新一代调度体系。\n\n\n\n区域能源互联网群智调度机制 | Regional Energy Internet Collaborative Intelligence Dispatch Mechanmism\n\n\n如图所示，REI 调度的复杂性源于分层互动架构（调度系统—聚合体—终端用户）下的双向交互过程：\n\n资源聚合过程：\n\nDSR 单元异质性强、数量庞大且配置灵活；\n单元通过电网实现动态聚合、多径耦合与博弈反馈，产生超越传统电力系统机理解析的涌现效应，增加协同管控难度。\n\n调度决策过程：\n\n调度对象由高可控、低风险的发电机组转变为自主性强、响应不确定的 DSR 聚合体，其特性、诉求与运行场景多样；\n单元用能行为遵循用户优先原则，受工况、意愿及市场激励等多重因素驱动，难以用固化规则保障调度效果。\n\n\n综合上述技术难点，课题组以系统论与数据密集型科学发现为指导，融合数字孪生、大数据分析、机器学习与复杂性科学，开展多智能体群智调度研究。针对 REI 分层互动架构的特点，课题组从涌现认知的全局分析视角与孪生智能的数据贯通视角出发，构建 REI 群智调度数字孪生框架。\n\n\n\n群智调度框架与核心模块 | Collaborative Intelligence Dispatch Framework And Its Core Modules\n\n\n如图所示，该框架包括样本子空间、特征子空间与决策子空间三个核心模块：\n\n样本子空间——精准建模与“覆盖式”样本生成\n\n难点：涵盖多实体、多参量、多过程；兼顾安全、经济、低碳；适应多需求、多环境、多耦合。\n方案：结合场景编排与自动仿真技术，在孪生空间中“覆盖式”模拟系统多时间尺度、多层级、多路径的高维时空数据样本，实现物理世界到样本子空间的多演绎路径生成式投射，支撑系统感知。\n\n特征子空间——高维数据利用与涌现解析\n\n难点：电力系统的异源时空大数据维度极高，传统统计方法可能产生严重偏差。\n方案：运用高维统计分析与深度学习技术，提取关键调度特征，量化评估不同策略的调度效果，并为样本数据打上多业态标签，支撑智能决策。\n\n决策子空间——群智机制设计与涌现驾驭\n\n难点：涌现现象难以用还原论描述，需要系统性、整体性的深层认知。\n方案：以海量标签样本集为输入，采用深度强化学习神经网络、人机混合智能增强等技术构建调度决策模型；设计虚实交互与闭环反馈机制，在物理世界与孪生空间中测试与优化群智调度策略。\n\n\n基于上述核心模块，结合“推演-认知-决策-再推演”闭环迭代式演进方法，课题组设计了群智调度数字孪生平台如图所示。\n\n\n\n群智调度平台设计 | Design of Collaborative Intelligence Dispatch Platform\n\n\n平台的运行逻辑如下：\n\n初始状态设置：基于历史数据、实时传感数据与人工输入，初始化系统环境、扰动因素与智能体交互机制；\n系统模拟：基于孪生建模与多径推演技术，生成多时间尺度、多层级、多路径的高维时空数据样本；\n态势感知：基于机器学习与高维统计理论，提取关键的系统运行特征与潜在调度规律，实现对调度策略效果的智能评估与特征挖掘；\n调度决策：基于深度强化学习等技术生成智能调度决策，并在孪生空间中开展虚拟测试，完成“虚拟空间自校核”；\n实际调度执行：在物理世界执行决策，实现物理系统的状态更新，完成“物理在环后校核”；\n孪生框架演进：将物理世界状态同步到孪生空间，进行下一次“再推演”循环。\n\n该平台可通过反复的“推演-认知-决策-再推演”迭代，逐步提升系统的智能化水平与可信度，建立全景化的数字化场景推演与智能管控工具，实现区域能源互联网的动态感知与智能决策闭环。"
+  },
+  {
+    "objectID": "research/01_rei_dispatch.html#群智调度元宇宙系统",
+    "href": "research/01_rei_dispatch.html#群智调度元宇宙系统",
+    "title": "区域能源互联网群智调度",
+    "section": "群智调度元宇宙系统",
+    "text": "群智调度元宇宙系统\n\n\n\n典型项目需求、架构与性能指标 | Demand, Framework And Performance of A Typical Project\n\n\n\n\n\n典型项目技术路线与示范应用 | Roadmap And Application of A Typical Project\n\n\n\n\n\n某城市地区配电网孪生系统 | Digital Twin of Urban Distribution Network\n\n\n\n\n\n某农村地区配电网孪生系统 | Digital Twin of Rural Distribution Network"
+  },
+  {
+    "objectID": "research/01_rei_dispatch.html#footnotes",
+    "href": "research/01_rei_dispatch.html#footnotes",
+    "title": "区域能源互联网群智调度",
+    "section": "脚注",
+    "text": "脚注\n\n\nRegional Energy Internet↩︎\nDemand-Side Resources↩︎\nVirtual Power Plant↩︎"
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "教职员工",
+    "section": "",
+    "text": "Ai Qian\n\n\n\n\n\n职位：上海交通大学电气工程系长聘教授、博士生导师，电力系统及自动化研究所所长，教研室主任，IEEE Senior Member\n研究方向：电力系统元件建模, 电能质量, 分布式发电, 人工智能以及在电力系统中的应用等.\n项目合作：国家自然科学基金、重点研发计划、863项目等纵向项目和多项横向课题.\n科研成果：\n\n编著与专著：形成编著和专著7部\n论文：发表学术论文百余篇，其中SCI 36篇，EI 33篇（近三年）\n科研项目：承担和完成纵向课题5个，横向课题15个（近三年）\n合作单位：国家电网、南方电网、中国电科院、南网科学研究院、广州供电局、上海电力公司、华东电力设计院、山东电科院、湖北电科院、许继集团等\n\n联系方式：\n\n电话：021-34204298\n邮箱：aiqian@sjtu.edu.cn\n地址：上海市闵行区东川路800号上海交通大学电信群楼1-322室\n\n学校官网主页"
+  },
+  {
+    "objectID": "staff.html#艾芊",
+    "href": "staff.html#艾芊",
+    "title": "教职员工",
+    "section": "",
+    "text": "Ai Qian\n\n\n\n\n\n职位：上海交通大学电气工程系长聘教授、博士生导师，电力系统及自动化研究所所长，教研室主任，IEEE Senior Member\n研究方向：电力系统元件建模, 电能质量, 分布式发电, 人工智能以及在电力系统中的应用等.\n项目合作：国家自然科学基金、重点研发计划、863项目等纵向项目和多项横向课题.\n科研成果：\n\n编著与专著：形成编著和专著7部\n论文：发表学术论文百余篇，其中SCI 36篇，EI 33篇（近三年）\n科研项目：承担和完成纵向课题5个，横向课题15个（近三年）\n合作单位：国家电网、南方电网、中国电科院、南网科学研究院、广州供电局、上海电力公司、华东电力设计院、山东电科院、湖北电科院、许继集团等\n\n联系方式：\n\n电话：021-34204298\n邮箱：aiqian@sjtu.edu.cn\n地址：上海市闵行区东川路800号上海交通大学电信群楼1-322室\n\n学校官网主页"
+  },
+  {
+    "objectID": "staff.html#贺兴",
+    "href": "staff.html#贺兴",
+    "title": "教职员工",
+    "section": "贺兴",
+    "text": "贺兴\n\n\n\n\n\n\nHe Xing\n\n\n\n\n\n职位：电气工程系 & 大数据工程技术研究中心 副研究员\n教育背景 博士导师：艾芊 教授；博后合作导师：邱才明 教授\n研究方向：数据科学与新型能源体系的融合应用\n联系方式：\n\n手机：18801966321（微信同号）\n邮箱：hexing_hx@126.com\n地址：上海市闵行区东川路800号上海交通大学电信群楼1-337室\n\n学校官网主页"
+  },
+  {
+    "objectID": "staff.html#高扬",
+    "href": "staff.html#高扬",
+    "title": "教职员工",
+    "section": "高扬",
+    "text": "高扬\n\n\n\n\n\n\nGao Yang\n\n\n\n\n\n职位：上海交通大学电气工程系 助理研究员\n研究方向：综合能源系统运行与优化\n学校官网主页"
+  },
+  {
+    "objectID": "staff.html#李嘉媚",
+    "href": "staff.html#李嘉媚",
+    "title": "教职员工",
+    "section": "李嘉媚",
+    "text": "李嘉媚\n\n\n\n\n\n\nLi Jiamei\n\n\n\n\n\n职位：上海交通大学电气工程系 助理研究员\n研究方向：虚拟电厂、电力辅助服务、电力交易、人工智能在电力系统应用、电力大模型技术等\n学校官网主页"
+  }
+]
