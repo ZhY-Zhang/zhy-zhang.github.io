@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: dist
+
+website:
+  title: "CPSL"
+  description: "复杂电力系统认知实验室"
+  navbar:
+    left:
+      - text: 主页
+        href: index.qmd
+      - text: 研究方向
+        # href: research/00_intro.qmd
+        href: research/01_rei_dispatch.qmd
+      - text: 教学资料
+        href: teaching.qmd
+      - text: 开放平台
+        href: platform.qmd
+      - text: 学术成果
+        href: paper.qmd
+      - text: 教职员工
+        href: staff.qmd
+      - text: 关于本站
+        href: about.qmd
+  # sidebar:
+  #   - title: "研究方向"
+  #     contents:
+  #       - research/00_intro.qmd
+  #       - research/01_rei_dispatch.qmd
+  #       - research/02_dsr_dispatch.qmd
+  page-footer:
+    border: true
+    left: |
+      地址：上海市闵行区东川路800号电信群楼1号楼337室<br>
+      邮编：200240<br>
+      邮箱：hexing_hx@126.com<br>
+    center: |
+      <a href="http://beian.miit.gov.cn/" style="text-decoration: none;">沪ICP备2026030237号</a><br>
+      Copyright © 2026 复杂电力系统认知实验室
+    right: |
+      相关链接<br>
+      <a href="https://www.sjtu.edu.cn/" style="text-decoration: none;">上海交通大学</a><br>
+      <a href="https://see.sjtu.edu.cn/" style="text-decoration: none;">上海交通大学电气工程学院</a>
+
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: sandstone
+    css: style.css
+    toc: true
+    lang: zh-cn

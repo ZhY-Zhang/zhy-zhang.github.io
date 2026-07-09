@@ -1,0 +1,65 @@
+---
+title: "教职员工"
+toc: false
+page-layout: full
+---
+
+## 艾芊
+
+:::{layout="[20, 80]" .profile-header}
+
+![Ai Qian](/images/staff/aiqian.jpg)
+
+* **职位**：上海交通大学电气工程系长聘教授、博士生导师，电力系统及自动化研究所所长，教研室主任，IEEE Senior Member
+* **研究方向**：电力系统元件建模, 电能质量, 分布式发电, 人工智能以及在电力系统中的应用等.
+* **项目合作**：国家自然科学基金、重点研发计划、863项目等纵向项目和多项横向课题.
+* **科研成果**：
+    * 编著与专著：形成编著和专著7部
+    * 论文：发表学术论文百余篇，其中SCI 36篇，EI 33篇（近三年）
+    * 科研项目：承担和完成纵向课题5个，横向课题15个（近三年）
+    * 合作单位：国家电网、南方电网、中国电科院、南网科学研究院、广州供电局、上海电力公司、华东电力设计院、山东电科院、湖北电科院、许继集团等
+* **联系方式**：
+    * 电话：021-34204298
+    * 邮箱：aiqian@sjtu.edu.cn
+    * 地址：上海市闵行区东川路800号上海交通大学电信群楼1-322室
+* [学校官网主页](https://see.sjtu.edu.cn/jiaoshiml/aiqian.html)
+
+:::
+
+## 贺兴
+:::{layout="[20, 80]" .profile-header}
+
+![He Xing](/images/staff/hexing.jpg)
+
+* **职位**：电气工程系 & 大数据工程技术研究中心 副研究员
+* **教育背景** 博士导师：艾芊 教授；博后合作导师：邱才明 教授
+* **研究方向**：数据科学与新型能源体系的融合应用
+* **联系方式**：
+    * 手机：18801966321（微信同号）
+    * 邮箱：hexing_hx@126.com
+    * 地址：上海市闵行区东川路800号上海交通大学电信群楼1-337室
+* [学校官网主页](https://see.sjtu.edu.cn/jiaoshiml/hexing.html)
+
+:::
+
+## 高扬
+:::{layout="[20, 80]" .profile-header}
+
+![Gao Yang](/images/staff/gaoyang.jpg)
+
+* **职位**：上海交通大学电气工程系 助理研究员
+* **研究方向**：综合能源系统运行与优化
+* [学校官网主页](https://see.sjtu.edu.cn/jiaoshiml/gaoyang.html)
+
+:::
+
+## 李嘉媚
+:::{layout="[20, 80]" .profile-header}
+
+![Li Jiamei](/images/staff/lijiamei.jpg)
+
+* **职位**：上海交通大学电气工程系 助理研究员
+* **研究方向**：虚拟电厂、电力辅助服务、电力交易、人工智能在电力系统应用、电力大模型技术等
+* [学校官网主页](https://see.sjtu.edu.cn/jiaoshiml/lijiamei.html)
+
+:::

@@ -1,0 +1,148 @@
+---
+title: "复杂电力系统认知实验室"
+subtitle: "Complex Power System Laboratory | CPSL"
+description: "本站面向电气工程、新型电力系统和能源数字化方向，提供电力系统基础知识、开放实验平台和实验室研究成果介绍。网站内容主要用于科普、课程辅助和学术交流。"
+toc: false
+page-layout: full
+title-block-banner: images/banner.jpg
+title-block-banner-color: "white"
+title-block-style: default
+back-to-top-navigation: false
+---
+
+::: {.home-section-heading}
+::: {.home-section-title}
+## 研究焦点
+:::
+[查看更多](research/01_rei_dispatch.qmd){.home-section-more}
+:::
+
+::: {.home-card-row}
+::: columns
+
+::: {.column width="25%"}
+::: {.home-card .home-card-research}
+![](/images/index_digital_twin.svg){.home-card-image}
+
+::: {.home-card-title}
+数字孪生与能源元宇宙
+:::
+
+构建跨设备、场站与区域的多层级交互式孪生平台，支撑可视化推演、运行状态同步与实时策略校核。
+:::
+:::
+
+::: {.column width="25%"}
+::: {.home-card .home-card-research}
+![](/images/index_system.png){.home-card-image}
+
+::: {.home-card-title}
+虚拟电厂与需求响应
+:::
+
+面向电动汽车、储能、分布式光伏和柔性负荷，研究资源聚合、能力评估与多主体协同调度。
+:::
+:::
+
+::: {.column width="25%"}
+::: {.home-card .home-card-research}
+![](/images/index_big_data.png){.home-card-image}
+
+::: {.home-card-title}
+高维统计与人工智能
+:::
+
+针对低信噪比、多源异构电力数据，发展高维特征提取、异常检测、状态识别与预测模型。
+:::
+:::
+
+::: {.column width="25%"}
+::: {.home-card .home-card-research}
+![](/images/index_gil.png){.home-card-image}
+
+::: {.home-card-title}
+数字孪生能源系统落地
+:::
+
+围绕园区能源、配电网运行和新能源消纳，开展仿真推演、策略评估与工程化平台开发。
+:::
+:::
+
+:::
+:::
+
+::: {.home-section-heading}
+::: {.home-section-title}
+## 教学资料
+:::
+[查看更多](teaching.qmd){.home-section-more}
+:::
+
+::: {.home-card-row}
+::: columns
+
+::: {.column width="25%"}
+::: {.home-card}
+
+::: {.home-card-title}
+潮流计算与最优潮流基础
+:::
+
+面向电力系统入门学习，覆盖建模基础、潮流计算与最优潮流基础问题。
+
+::: {.home-card-actions}
+[下载 PDF](files/电力系统潮流计算与最优潮流基础-v0.1.pdf){.home-button}
+:::
+
+:::
+:::
+
+:::
+:::
+
+::: {.home-section-heading}
+::: {.home-section-title}
+## 开放实验平台
+:::
+[查看更多](platform.qmd){.home-section-more}
+:::
+
+::: {.home-card-row}
+::: columns
+
+::: {.column width="25%"}
+::: {.home-card}
+
+::: {.home-card-title}
+区域综合能源系统多能主体互动调控仿真推演孪生实验平台
+:::
+
+面向区域综合能源系统，支撑多能主体互动、运行调控与仿真推演。
+
+::: {.home-card-actions}
+[进入平台](https://cpslee.net/energy-suite/){.home-button}
+[接口文档](https://cpslee.net/api/energy-suite/docs){.home-button .home-button-secondary}
+:::
+
+:::
+:::
+
+::: {.column width="25%"}
+::: {.home-card}
+
+::: {.home-card-title}
+园区充电服务费动态定价实验平台
+:::
+
+面向园区充电服务费动态定价，支撑需求分析、策略生成与效果评估。
+
+::: {.home-card-actions}
+[进入平台](https://cpslee.net/ev-market/){.home-button}
+[接口文档](https://cpslee.net/api/ev-market/docs){.home-button .home-button-secondary}
+:::
+
+:::
+:::
+
+:::
+:::

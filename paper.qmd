@@ -1,0 +1,371 @@
+---
+title: "学术成果"
+toc: false
+page-layout: full
+---
+
+::: {.publication-page}
+
+## 代表性论文
+
+::: {.pub-feature-grid}
+
+::: {.pub-card}
+::: {.pub-card-title}
+Redefinition of Digital Twin and Its Situation Awareness Framework Designing Toward Fourth Paradigm for Energy Internet of Things
+:::
+
+::: {.pub-card-meta}
+IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024
+:::
+
+提出面向能源物联网的数字孪生态势感知框架，围绕第四范式、数据引擎和智能引擎组织复杂系统认知过程。
+
+::: {.pub-tags}
+<span>Complexity theory</span>
+<span>Complex systems</span>
+<span>Engines</span>
+<span>Digital twins</span>
+<span>Decision making</span>
+<span>Data models</span>
+<span>Energy Internet</span>
+:::
+
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10665967){.pub-button}
+:::
+
+::: {.pub-card}
+::: {.pub-card-title}
+Exploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN
+:::
+
+::: {.pub-card-meta}
+IEEE Transactions on Power Systems, 2024
+:::
+
+面向主动配电网复合事件分析，构建谱空间中的叠加定理，为无监督、模型无关的复合事件解析提供理论工具。
+
+::: {.pub-tags}
+<span>Harmonic analysis</span>
+<span>Transforms</span>
+<span>Voltage</span>
+<span>Mathematical models</span>
+<span>Topology</span>
+<span>Power system harmonics</span>
+<span>Phasor measurement units</span>
+:::
+
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10354393){.pub-button}
+:::
+
+:::
+
+## 全部论文
+
+### 2026
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[Eigenvalue Triangle: A Spectrum-Space Representation of Measurement Patterns for Correlation-Aware Network Analysis](https://doi.org/10.1109/tim.2026.3676167){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Zhuangyan Zhang, Xing He, Zhoujun Ma, Qian Ai, Robert Caiming Qiu
+:::
+::: {.pub-journal}
+IEEE Transactions on Instrumentation and Measurement
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[A World Model framework with digital twin for scheduling demand-side resources under systemic complexity](https://doi.org/10.1016/j.egyai.2025.100660){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Yikang Bu, Guoquan Yuan, Junjie Yin, Zhuangyan Zhang, Qian Ai, Caiming Qiu
+:::
+::: {.pub-journal}
+Energy and AI
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[新一代调度体系的挑战与实践——面向需求侧资源群智调度的数字孪生框架](https://kns.cnki.net/kcms2/article/abstract?v=LT90ZeEa8UytP8uF_kwvCucSrGKSe8CQ-086XzK_Xx9L56E2AG7gCT5cMb3ujB5kGlAVGCMrIx0sW1seXQsCegGccMqhiJ-Y0SzAGzEgksU8E4sKQabTZ12cGMiwMy3ToDuE1x8IZ8I35fphUmsc59qDA59iK_XC&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+贺兴, 陈赟, 唐佳滢, 王佳裕, 黄兴德, 罗潇, 潘智俊, 艾芊
+:::
+::: {.pub-journal}
+电网技术
+:::
+:::
+:::
+
+:::
+
+### 2025
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[Transparent Enhancement of Active Distribution Network Through FCA-based Blind Decomposition](https://doi.org/10.1016/j.apenergy.2024.124776){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Zhuangyan Zhang, Qian Ai, Zenan Ling, Yuezhong Tang, Robert Qiu
+:::
+::: {.pub-journal}
+Applied Energy
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[面向多主体协同与智能涌现的能源互联网元宇宙架构设计](https://kns.cnki.net/kcms2/article/abstract?v=LT90ZeEa8Uy0InOcVtXEPbpqe2_PmiLhrDjdabmeZdeQdwpV6J2PVtta1vyplUejW9K6la186rqoT525yFMKAZ8u9wJn3azCCft4sazW-zKttHPoIgZTqXDC8Pv_o6Bk687U1L_9_aUDO-XXFNBgWTLFRiBflm3gxl42UIJn3J8=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+马墅研, 贺兴, 张庄俨, 艾芊, 赵建立, 向佳霓
+:::
+::: {.pub-journal}
+电力系统自动化
+:::
+:::
+:::
+
+:::
+
+### 2024
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[Redefinition of Digital Twin and Its Situation Awareness Framework Designing Toward Fourth Paradigm for Energy Internet of Things](https://doi.org/10.1109/tsmc.2024.3407061){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Yuezhong Tang, Shuyan Ma, Qian Ai, Fei Tao, Robert Qiu
+:::
+::: {.pub-journal}
+IEEE Transactions on Systems, Man, and Cybernetics: Systems
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[Exploration of Superposition Theorem in Spectrum Space for Composite Event Analysis in an ADN](https://doi.org/10.1109/tpwrs.2023.3341458){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Qian Ai, Yuezhong Tang, Robert Caiming Qiu, Canbing Li
+:::
+::: {.pub-journal}
+IEEE Transactions on Power Systems
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[基于数字孪生与元宇宙的能源互联网认知系统论（三）：复杂系统群智调控理论及其框架](https://kns.cnki.net/kcms2/article/abstract?v=si2fSHvxfzj8jDVc5f9RtXoUSZ3an_PZ13N5DGSFEl758GfZvpodaROPApowbc29eA2j--UQp4uaOBIZEHpmaiSMFUX9cCX1CABAvPFKCDYzIiOYDLOvN48GREZ55yGBU2PzDSfR5VUQV4Fr6A929vNggCAhy8Ml6-4Dy7CbO30=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+贺兴, 唐跃中, 韩烨宸, 高扬, 陈赟, 黄兴德, 艾芊
+:::
+::: {.pub-journal}
+中国电机工程学报
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[基于数字孪生与元宇宙的能源互联网认知系统论（二）：面向复杂系统涌现现象的虚拟仿真推演框架](https://kns.cnki.net/kcms2/article/abstract?v=si2fSHvxfzjIG3Zr9QRoUzqY_QcAQynhuygE-4FlrQpOPrREFGXMhpy5W5WjQd-3Z9jpByrAKhQg7K8or-NHnbD6L47cX4YZb2HRSWhKQ1qWiUaukHZEDoMRcznOzS13HoXCo1iuXOBMnuUC-l8yuoKiUzb5jTfGLpW0CZIJzFI=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+贺兴, 潘美琪, 唐跃中, 郝然, 艾芊
+:::
+::: {.pub-journal}
+中国电机工程学报
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[基于数字孪生与元宇宙技术的能源互联网态势感知系统论方法研究（一）：概念、挑战与研究框架](https://kns.cnki.net/kcms2/article/abstract?v=si2fSHvxfzjw-2FmbcXLQ2mtWuzI4qLhofr4xX4OTOZ_-Qr8dLPViKqmoXeRbAKQLtNL3fZ1fCVz5xfI2i5WycH-bjFtQiPDNiAEGLMb5vzx_fJ4fimlm46uOwWx7-Pe30tloNx65qImBU0yUPJwI1-nymRQJQqh8jQ9KYhiSUI=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+贺兴, 陈旻昱, 唐跃中, 艾芊, 张东霞
+:::
+::: {.pub-journal}
+中国电机工程学报
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[小样本学习技术在新型电力系统中的应用与挑战](https://kns.cnki.net/kcms2/article/abstract?v=LT90ZeEa8UyYhhiCtFYoA_LVJBE8P5cm9OxCrrK6adfvHASFxdFqQaORBTa26w7F4UpiLYeG9OE8aZvYPYHAO1TCXtJs_kaALRKhueZ5HF7D8dt3TDhh7UjVx_8yscrEZyLlHyy9xflwAG9WAQv5iCmiIkD8AGZ1HBQXt6rPir0=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+贺兴, 潘美琪, 艾芊
+:::
+::: {.pub-journal}
+电力系统自动化
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[新型配电系统分布式资源调度研究现状与展望](https://kns.cnki.net/kcms2/article/abstract?v=LT90ZeEa8Uwqz4kH-XCnMFdD-dwAt7DHHMgrYv6_tmCjPIq9FVCCsrpWhugv8xqf7qh2too8mnfa4pCoZEGxpN7vV3ya5puJTe5Jq6crVNiUMln2i4dR9YE6zr37i7f5Vn5WoUpqVkBZ57jJmLCx0qxgkb2rBQElaCwmfko92bg=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+潘美琪, 贺兴, 艾芊, 唐跃中
+:::
+::: {.pub-journal}
+电网技术
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[超大型城市虚拟电厂的数字孪生框架设计及实践](https://kns.cnki.net/kcms2/article/abstract?v=si2fSHvxfziPCwALO4hPbB4cH3m2-HpJGXrVg0wj4tzTjBK-ti9BPcmGxFJzOj_2YfzmGx6Xgb_i1EWoUALQGg6vIhCCvhRFneA5ZrZohg0F-b9rRlcu8mRApluo-LCgdcBEozB59XeA9VJBRBOIJ8xut2FqLjmOhl6Rx9YbEsg=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+周翔, 贺兴, 陈赟, 罗潇, 王佳裕, 艾芊, 韩烨宸
+:::
+::: {.pub-journal}
+电网技术
+:::
+:::
+:::
+
+:::
+
+### 2023
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[Situation Awareness of Energy Internet of Things in Smart City Based on Digital Twin: From Digitization to Informatization](https://doi.org/10.1109/jiot.2022.3203823){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Qian Ai, Jingbo Wang, Fei Tao, Bo Pan, Robert Qiu, Bo Yang
+:::
+::: {.pub-journal}
+IEEE Internet of Things Journal
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[基于GRU-EEMD算法的非侵入式配电网功率欠定盲源分离](https://kns.cnki.net/kcms2/article/abstract?v=LT90ZeEa8Uw3Nm9jSvQdmQpqyk91BQTxk9ccP_QRsWfZVmFSd2rfCLmPwUa_DFqJv-_5bfdk6kK20dy0uKZPbFfAmyTsgvzmPbaWhwNhJlbck5v7xubMx-Z1Vq-Dxt_z37E4FkgxLK0f6RPIt6klR_gX0lEh4zsd4_fq0iPfaHc=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+韩烨宸, 贺兴, 艾芊
+:::
+::: {.pub-journal}
+电力系统自动化
+:::
+:::
+:::
+
+:::
+
+### 2021
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[A Hybrid Framework for Topology Identification of Distribution Grid With Renewables Integration](https://doi.org/10.1109/tpwrs.2020.3024955){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Robert C. Qiu, Qian Ai, Tianyi Zhu
+:::
+::: {.pub-journal}
+IEEE Transactions on Power Systems
+:::
+:::
+:::
+
+:::
+
+### 2020
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[Invisible Units Detection and Estimation Based on Random Matrix Theory](https://doi.org/10.1109/tpwrs.2019.2935739){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Lei Chu, Robert Caiming Qiu, Qian Ai, Zenan Ling, Jian Zhang
+:::
+::: {.pub-journal}
+IEEE Transactions on Power Systems
+:::
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+[数字孪生在电力系统应用中的机遇和挑战](https://kns.cnki.net/kcms2/article/abstract?v=LT90ZeEa8Uw6RZI2hPeMRB_SDRZkTP9Dz8ceonIt6ADhhSTo_FQ9hzFdwcBCUhuDmZVcylwi69ZMVxtH-A1uW-8rbqr4kCUq4geJoe6z6wmTG2fly2j3ltYyCCvxr6rty6MGJ7dt8tnUgyyq_7YHHvql961_ZAUW5FJjYBrvFLE=&uniplatform=NZKPT){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+贺兴, 艾芊, 朱天怡, 邱才明, 张东霞
+:::
+::: {.pub-journal}
+电网技术
+:::
+:::
+:::
+
+:::
+
+### 2017
+
+::: {.pub-list}
+
+::: {.pub-item}
+::: {.pub-title}
+[A Big Data Architecture Design for Smart Grids Based on Random Matrix Theory](https://doi.org/10.1109/tsg.2015.2445828){.pub-title-link}
+:::
+::: {.pub-meta}
+::: {.pub-authors}
+Xing He, Qian Ai; Robert Caiming Qiu, Wentao Huang, Longjian Piao, Haichun Liu
+:::
+::: {.pub-journal}
+IEEE Transactions on Smart Grid
+:::
+:::
+:::
+
+:::

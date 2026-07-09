@@ -1,0 +1,11 @@
+---
+title: "开放平台"
+---
+
+- [区域综合能源系统多能主体互动调控仿真推演孪生平台](https://cpslee.net/energy-suite/)
+
+- [区域综合能源系统多能主体互动调控仿真推演孪生平台（API文档）](https://cpslee.net/api/energy-suite/docs)
+
+- [园区充电服务费动态定价实验](https://cpslee.net/ev-market/)
+
+- [园区充电服务费动态定价实验（API文档）](https://cpslee.net/api/ev-market/docs)
